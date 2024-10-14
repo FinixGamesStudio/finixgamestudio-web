@@ -1594,3 +1594,6 @@ color: #fff;
 div.icon-box a figure img{
   width: 100%;
 } 
+.header-about-section{
+  height: unset!important;
+}
