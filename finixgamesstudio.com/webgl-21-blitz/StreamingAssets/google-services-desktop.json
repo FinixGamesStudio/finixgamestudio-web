@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "47897955941",
+    "project_id": "blitz21-eb8bc",
+    "storage_bucket": "blitz21-eb8bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47897955941:ios:0d04abc6f548042f79008c",
+        "android_client_info": {
+          "package_name": "com.chintugames.Blitz21"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCygJCS8AdSCbj4tQSbvcMXyK0_t5Vzq4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
