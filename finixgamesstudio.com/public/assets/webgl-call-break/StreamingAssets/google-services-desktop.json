@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710512896557",
+    "project_id": "call-break-ccb4f",
+    "storage_bucket": "call-break-ccb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710512896557:android:7aa9d1a231e4208b07e6a4",
+        "android_client_info": {
+          "package_name": "com.chintugames.CallBreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_6Aq6zdo9K0toecZBmbtbIBS9jX08QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

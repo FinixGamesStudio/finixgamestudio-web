@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105622172708",
+    "project_id": "spades-a72fe",
+    "storage_bucket": "spades-a72fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105622172708:android:caa2e0c658761d754914b1",
+        "android_client_info": {
+          "package_name": "com.chintugames.Spades"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsg2A0yq0ruu8QwbHeMF8Bt7t50eJ5Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
