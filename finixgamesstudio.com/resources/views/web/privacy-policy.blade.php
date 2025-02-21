@@ -100,7 +100,7 @@
 
             <h3 class="mb-3">5. 🛡️ How Do We Protect Your Information?</h3>
             <p class="text-secondary"> 🚫 We do not use vulnerability scanning and/or scanning to PCI standards. </p>
-            
+
             <p class="text-secondary"> 📰 We only provide articles and information. <b>We never ask for credit card
                     numbers</b> 💳❌. </p>
             <p class="text-secondary"> 🦠 We use <b>regular Malware Scanning</b> to protect our systems. </p>
@@ -126,7 +126,7 @@
             <p class="text-secondary">Rest assured, we <b>do not share any of your information</b> 🔐.</p>
             <p>💳 All transactions are processed through a gateway provider and are <b>not stored or processed</b> on
                 our
-                servers 🖥️.</p> 
+                servers 🖥️.</p>
             <h3 class="mb-3">6. 📋 Log Data</h3>
             <p class="text-secondary"> 🚨 When you use our Service, and if an error occurs, we may collect data 📱. This
                 <b>Log Data</b> might include details such as:
@@ -448,52 +448,6 @@
                     </tr>
                 </tbody>
             </table>
-            <h3 class="mb-3">2. 📢 Advertising & Data Collection</h3>
-<p class="text-secondary">
-    Our app uses <b>Google AdMob</b> to serve advertisements. AdMob may collect and use certain data to improve ad relevance, measure performance, and prevent fraud. This data may include:
-</p>
-<ul>
-    <li>📱 <b>Device Information</b>: Device model, OS version, and unique device identifiers (e.g., Advertising ID).</li>
-    <li>🌍 <b>IP Address</b>: Used for approximate location targeting and fraud prevention.</li>
-    <li>📊 <b>Ad Interaction Data</b>: Clicks, impressions, and engagement with ads.</li>
-    <li>📈 <b>App Usage Data</b>: Information about app sessions, crashes, and analytics.</li>
-    <li>📍 <b>Location Data (if enabled)</b>: Approximate or precise location for location-based ads.</li>
-</ul>
-
-<h3 class="mb-3">3. 🎯 Why This Data is Collected</h3>
-<p class="text-secondary">
-    Google AdMob collects this data to:
-</p>
-<ul>
-    <li>✅ Provide <b>personalized and non-personalized ads</b>.</li>
-    <li>📊 Improve <b>advertising relevance and effectiveness</b>.</li>
-    <li>🔍 Detect <b>fraudulent activities and ensure ad security</b>.</li>
-    <li>⚖️ Comply with <b>legal requirements and regulations</b>.</li>
-</ul>
-
-<h3 class="mb-3">4. 📲 App Tracking Transparency (iOS Users)</h3>
-<p class="text-secondary">
-    If you are using our app on an <b>iOS device</b>, you may be asked for <b>App Tracking Transparency (ATT) permission</b> to allow personalized advertising. You can manage your tracking preferences in <b>Settings → Privacy → Tracking</b> on your iOS device.
-</p>
-
-<h3 class="mb-3">5. ❌ How to Opt-Out of Personalized Ads</h3>
-<p class="text-secondary">
-    Users can opt out of personalized advertising by adjusting their device settings:
-</p>
-<ul>
-    <li>📱 <b>Android</b>: Go to <b>Settings → Google → Ads → Opt out of Ads Personalization</b>.</li>
-    <li>🍏 <b>iOS</b>: Go to <b>Settings → Privacy → Tracking</b>, then disable "Allow Apps to Request to Track".</li>
-</ul>
-
-<h3 class="mb-3">6. 🔗 More Information</h3>
-<p class="text-secondary">
-    For more details on how Google AdMob handles user data, please visit:
-</p>
-<ul>
-    <li>🔗 <a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>
-    <li>📢 <a href="https://support.google.com/admob/answer/6128543">Google AdMob & Data Usage</a></li>
-</ul>
-
             <br><br>
             <div style="text-align: center;">
                 <h3>Contact Us 📞</h3>
